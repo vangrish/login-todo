@@ -1,0 +1,7 @@
+{
+  "name": "login-todo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
